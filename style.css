@@ -1,0 +1,12 @@
+.half-width{
+    width: 50%;
+    display: flex;
+}
+.lorem{
+    width: 50%;
+}
+.short{
+    width: 50%;
+    display: flex;
+    text-align: center;
+}
