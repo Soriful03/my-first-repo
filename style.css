@@ -1,12 +1,109 @@
-.half-width{
-    width: 50%;
+.go-flex{
     display: flex;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
-.lorem{
-    width: 50%;
+.display-divide{
+    width: 80%;
+    height: 80%;
 }
-.short{
-    width: 50%;
-    display: flex;
+.display-divide{
+    width: 70%;
+    height: 60%;
+}
+#top-image{
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+}
+.scil{
+    left-scile
+}
+
+.left-slice{
+    border-left: 5px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+}
+.colorful-second-sec{
+    color: rgba(255, 68, 0, 0.808);
+}
+.explore-button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(orangered,orange);
+    margin-top: 25px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.explore-button-next{
+    text-decoration: none;
+    border-radius: 15px;
+    background-image: linear-gradient(orangered,orange);
+    margin-top: 25px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.box-display{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 15px;
+    border-radius: 15px;
+    width: 300px;
+    height: 300%;
+    box-shadow: 10px 10px 50px gray;
+}
+h2{
     text-align: center;
+}
+#mission{
+    background-color: aqua;
+    text-align: center;
+}
+#Vission{
+    background-color: blue;
+    text-align: center;
+}
+#gole{
+    background-color: brown;
+    text-align: center;
+}
+.box-display img{
+    width: 150px;
+    height: 150px;
+    margin: 0px;
+}
+.box-display p{
+    text-decoration-line: none;
+}
+.display-divide h2{
+    text-align: left;
+    font-size: 45px;
+    color: initial;
+}
+.display{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 50%;
+    height: 200px;
+}
+.display img{
+    width: 200px;
+    height: 300px;
+    box-shadow: 10px;
+    border-radius: 15px;
+    background-color: orange;
+}
+.display-p{
+    width: 80%;
+    height: 80%;
 }
